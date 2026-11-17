@@ -166,7 +166,7 @@ Closes Monitorix safely.
 
 **Zainab Ijaz**
 
-Cybersecurity | Network Security Enthusiast
+ Network and Cloud Security Engineer 
 
 ---
 
