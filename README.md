@@ -42,7 +42,7 @@ It provides a centralized monitoring environment with database-backed storage an
 ### 1. Clone Repository
 
 ```bash
-https://github.com/zainab-cyber6633/Monitorix.git
+https://github.com/zainabijazmehar/Monitorix.git
 ```
 
 Move into the project directory:
